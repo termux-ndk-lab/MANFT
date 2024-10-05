@@ -36,3 +36,6 @@ To install MANFT, follow the instructions provided in the [fyne-termux](https://
 ## Contributing
 
 Contributions are welcome! Please submit any issues or feature requests through the GitHub repository.
+
+## Author
+Duilio Pérez (DP-Dev)
