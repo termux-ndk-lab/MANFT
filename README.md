@@ -2,7 +2,7 @@
 
 ## Overview
 
-MANFT is a lightweight alternative to the [fyne-termux](https://github.com/MatejMagat305/fyne-termux) project, designed specifically for the Fyne Go library in Termux. This project is derived from [termux-ndk](https://github.com/lzhiyong/termux-ndk) and utilizes version r23c of the Android NDK. The primary goal of MANFT is to provide a minimalistic setup by including only the necessary compiler, headers, and libraries required to compile a Fyne package for multiplatform Android.
+MANFT is a lightweight option for the [fyne-termux](https://github.com/MatejMagat305/fyne-termux) project, designed specifically for the Fyne Go library in Termux. This project is derived from [termux-ndk](https://github.com/lzhiyong/termux-ndk) and utilizes version r23c of the Android NDK. The primary goal of MANFT is to provide a minimalistic setup by including only the necessary compiler, headers, and libraries required to compile a Fyne package for multiplatform Android.
 
 ## Features
 
@@ -38,4 +38,4 @@ To install MANFT, follow the instructions provided in the [fyne-termux](https://
 Contributions are welcome! Please submit any issues or feature requests through the GitHub repository.
 
 ## Author
-Duilio Pérez (DP-Dev)
+Duilio Pérez (DP-Dev).
